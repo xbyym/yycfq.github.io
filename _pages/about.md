@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 I am currently an undergraduate student at Xidian University, class of 2021. I started my research internship in August 2023 under the supervision of Professor [De Cheng](https://web.xidian.edu.cn/dcheng/index.html) and Professor [Chaowei Fang](https://faculty.xidian.edu.cn/FANGCHAOWEI/zh_CN/index.htm). 
-
-In 2024, my first first-author top conference paper was accepted at NeurIPS 2024: *Diffusion-based Layer-wise Semantic Reconstruction for Unsupervised Out-of-Distribution Detection*. After studying various generative models and their applications, I became particularly interested in generative models and multimodal generation. My goal is to build a unified multimodal large model capable of both understanding and generation. 
+In 2024, my first-author top conference paper was accepted at NeurIPS 2024: *Diffusion-based Layer-wise Semantic Reconstruction for Unsupervised Out-of-Distribution Detection*. After studying various generative models and their applications, I became particularly interested in generative models and multimodal generation. My goal is to build a unified multimodal large model capable of both understanding and generation. 
 
 I am currently preparing for PhD applications for 2025. If you're interested in my work, feel free to reach out to me via email: yycfq@foxmail.com.
 
